@@ -1,0 +1,22 @@
+{
+    "info": [
+                {
+                    "id": 1,
+                    "name": "Observances",
+                    "text": "Observances are remembrance, awareness, and celebration days or events that are not normally days off work. These events are inherently different from public holidays, as they are commonly celebrated regionally, and not nationally. Observances are holidays such as Halloween or Earth Day. "
+                }, {
+                    "id": 2,
+                    "name": "Holiday",
+                    "text": "A holiday is a day or other period of time set aside for festivals or recreation. Public holidays are set by public authorities and vary by state or region. Religious holidays are set by religious organisations for their members and are often also observed as public holidays in religious majority countries."
+                }, {
+                    "id": 3,
+                    "name": "Festival",
+                    "text": "A festival is an extraordinary event celebrated by a community and centering on some characteristic aspect or aspects of that community and its religion or cultures. Festivals are the threads that weave the cultural fabric of a nation, bringing to life the customs, traditions, and values that define a country's identity."
+                }
+            ], 
+    "randomText": [" - Celebrating Christmas used to be in USA illegal", 
+                "- The tallest Christmas tree ever displayed was in Seattle, Washington, measuring 67 meters tall ", "- A popular tradition in Japan is to eat KFC for Christmas.", 
+                "- The Night of the Radishes is a Christmas tradition in Mexico, celebrated in Oaxaca City.", 
+                "- Mari Lwyd is a wales tradition in which a horse skull is draped in bells, ruins and coloured ribbons. "
+                ]
+}

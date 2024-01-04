@@ -1,0 +1,21 @@
+.header-home {
+    background: linear-gradient(rgba(0,0,0,0.7), rgba(0,0,0,0.7)), url("../img/feast.jpg");
+    background-size: cover;
+    height: 100vh;
+}
+
+.header-home h1 {
+    text-align: center;
+    font-size: 50px;
+    color: #fff;
+    padding-top: 40px;
+    margin-bottom: 40px;
+    text-shadow: 0 0 3px #fff;
+}
+
+.random-text {
+    text-align: center;
+    color: #fff;
+    margin: 40px;
+    font-size: 18px;
+}

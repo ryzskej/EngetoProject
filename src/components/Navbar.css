@@ -1,0 +1,30 @@
+.active {
+    color: #fff;
+    text-decoration: none;
+}
+
+.noActive {
+    color: #cac3c3;
+    font-weight: 300;
+    text-decoration: none;
+}
+
+nav {
+    background: #190d0d;
+    height: 40px;
+}
+
+nav ul {
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+}
+
+nav ul li {
+    list-style-type: none;
+    font-size: 25px;
+    font-weight: bold;
+    margin-top: 5px;
+}
