@@ -1,3 +1,4 @@
+/* komponenta k úvodním čtyřem kartám na stránce Home */
 import data from "../dataKindOfFeast"       
 import "./KindOfFeast.css"
 

@@ -2,6 +2,7 @@
     max-width: 1280px;
     margin: 0 auto;
     margin-top: 55px;
+    padding: 10px;
 }
 
 .all-buttons {
@@ -15,12 +16,36 @@
     color: #fefefe;
     border: 2px solid #fff;
     border-radius: 0 20px 0 20px;
-    font-weight: bold;
     cursor: pointer;  
+    transition: all 0.4s;
+}
+
+.one-button:hover {
+    font-weight: bold;
+    border-radius: 20px 0px 20px 0px;
+    box-shadow: 0 0 20px #fff;
+
 }
 
 .text-info {
     color: #fefefe;
     margin-top: 20px;
     max-width: 700px;
+    padding: 15px;
+    padding-bottom: 30px;
+}
+
+/* zobrazení pro display o max. šířce 950 px */
+@media screen and (max-width: 950px) {
+
+    .all-buttons {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+
+    .one-button {
+        text-align: center;
+        margin: 5px;
+    }
 }

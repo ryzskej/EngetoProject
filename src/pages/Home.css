@@ -1,7 +1,12 @@
-.header-home {
-    background: linear-gradient(rgba(0,0,0,0.7), rgba(0,0,0,0.7)), url("../img/feast.jpg");
+body {
     background-size: cover;
     height: 100vh;
+    position: relative;
+}
+
+.header-home {
+    background: linear-gradient(rgba(0,0,0,0.7), rgba(0,0,0,0.7)), url("../img/feast.jpg");
+    /* background-repeat: no-repeat; */
 }
 
 .header-home h1 {
@@ -10,12 +15,5 @@
     color: #fff;
     padding-top: 40px;
     margin-bottom: 40px;
-    text-shadow: 0 0 3px #fff;
-}
-
-.random-text {
-    text-align: center;
-    color: #fff;
-    margin: 40px;
-    font-size: 18px;
+    text-shadow: 0 0 4px #fff;
 }

@@ -6,7 +6,7 @@ const Navbar = () => {
   return <nav>
     <ul>
         <li><NavLink className={ ({isActive}) => isActive ? "active" : "noActive"} to="/">Home</NavLink></li>
-        <li><NavLink className={ ({isActive}) => isActive ? "active" : "noActive"} to="/FindCountry">Find country</NavLink></li>
+        <li><NavLink className={ ({isActive}) => isActive ? "active" : "noActive"} to="/searchHolidayByCountry">Search Holidays by Country</NavLink></li>
     </ul>
   </nav>
 }
